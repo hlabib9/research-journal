@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image: profile.png  # Add a photo of yourself to your project folder!
+#image: profile.png  # Add a photo of yourself to your project folder!
 about:
   template: jolla    # 'jolla' puts the image in a circle at the top
   links:
