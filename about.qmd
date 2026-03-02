@@ -1,19 +1,36 @@
 ---
-title: "About"
-image: profile.jpg
+title: "About Me"
+image: profile.png  # Add a photo of yourself to your project folder!
 about:
-  template: jolla
+  template: solana    # 'jolla' puts the image in a circle at the top
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/yourhandle
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/yourname
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/yourusername
+    - icon: google-scholar
+      text: Scholar
+      href: https://scholar.google.com/
 ---
 
-About this blog
+## Biography
+
+I am Heba Labib; currently a Physics PhD student at North Carolina State University. I work at the intersection of theoretical condensed matter physics and quantum computing. My research focuses on quantum simulations of many-body systems as well as developing hardware-efficient quantum algorithms. I also work on developing theoretical frameworks for photo-emission spectroscopy and its applications in understanding the electronic properties of materials. I learn best by writing my own notes and explaining things to myself in writing; and thus, the reason I start this journal. In this blog, I will share my research progress, insights, and thoughts on various topics in physics and quantum computing.
+
+## Research Interests
+
+* **Topic 1:** Quantum Many-Body Systems and Quantum Simulations
+* **Topic 2:** Photo-emission Spectroscopy and Electronic Properties of Materials
+* **Topic 3:** Non-equilibrium Condensed Matter Dynamics 
+* **Topic 4:** Quantum Algorithms and Quantum Computing
+
+## Education
+
+**University Name** | Raleigh, NC  
+PhD in [Physics] | Aug 2021 - Present
+
