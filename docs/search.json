@@ -2,9 +2,30 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this blog"
+    "text": "I am Heba Labib; currently a Physics PhD student at North Carolina State University. I work at the intersection of theoretical condensed matter physics and quantum computing. My research focuses on quantum simulations of many-body systems as well as developing hardware-efficient quantum algorithms. I also work on developing theoretical frameworks for photo-emission spectroscopy and its applications in understanding the electronic properties of materials. I learn best by writing my own notes and explaining things to myself in writing; and thus, the reason I start this journal. In this blog, I will share my research progress, insights, and thoughts on various topics in physics and quantum computing."
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "About Me",
+    "section": "",
+    "text": "I am Heba Labib; currently a Physics PhD student at North Carolina State University. I work at the intersection of theoretical condensed matter physics and quantum computing. My research focuses on quantum simulations of many-body systems as well as developing hardware-efficient quantum algorithms. I also work on developing theoretical frameworks for photo-emission spectroscopy and its applications in understanding the electronic properties of materials. I learn best by writing my own notes and explaining things to myself in writing; and thus, the reason I start this journal. In this blog, I will share my research progress, insights, and thoughts on various topics in physics and quantum computing."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Me",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nTopic 1: Quantum Many-Body Systems and Quantum Simulations\nTopic 2: Photo-emission Spectroscopy and Electronic Properties of Materials\nTopic 3: Non-equilibrium Condensed Matter Dynamics\nTopic 4: Quantum Algorithms and Quantum Computing"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nUniversity Name | Raleigh, NC\nPhD in [Physics] | Aug 2021 - Present"
   },
   {
     "objectID": "posts/welcome/index.html",
